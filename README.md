@@ -4,7 +4,7 @@
 This repo contains the eye exercise from my MIT Full Stack development course.
 
 ## Description
-Eyes are following the mouse movement on screen This exercise targets a few skills building
+Eyes are following the mouse movement on screen. This exercise targets a few skills building
 - “onmousemove” event subscription
 - Reading mouse event properties
 - Usage of “absolute” and “relative” in CSS.
