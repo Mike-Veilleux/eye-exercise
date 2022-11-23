@@ -10,7 +10,7 @@ Eyes are following the mouse movement on screen. This exercise targets a few ski
 - Usage of “absolute” and “relative” in CSS
     
 ## Install
-Clone this repo and launch the eyes.html file in your browser.
+Clone this repo and launch the index.html file in your browser.
   
 ## Live Demo
 Click here to see these creepy eyes in action on my website. 
