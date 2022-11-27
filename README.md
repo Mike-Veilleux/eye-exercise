@@ -13,7 +13,7 @@ Eyes are following the mouse movement on screen. This exercise targets a few ski
 Clone this repo and launch the index.html file in your browser.
   
 ## Live Demo
-Click here to see these creepy eyes in action on my website. 
+Click **[here](https://mike-veilleux.github.io/exercises/eye-exercise/index.html)** to see these creepy eyes in action on my website. 
   
 ## Roadmap
 There are many upgrades possible for this project. Here's a few on my mind:
