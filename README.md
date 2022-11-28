@@ -21,6 +21,6 @@ There are many upgrades possible for this project. Here's a few on my mind:
 - Update the eyes tracking system to account for when the mouse is between both eyes
   
 ## Licensing
-This project is under MIT license. Use it as you wish!
+This project is under MIT license. Read more **[here](https://github.com/Mike-Veilleux/eye-exercise/blob/main/LICENSE)**
 
 
